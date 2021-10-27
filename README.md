@@ -2,7 +2,7 @@
 Auto send gmail
 
 ## Set up
-Set up the email password on "password.py"
+Set up the email account and password on "password.py"
 
 ## Run 
 ```bash
