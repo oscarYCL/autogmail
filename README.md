@@ -1,8 +1,8 @@
 # autogmail
-auto send gmail
+Auto send gmail
 
 ## Set up
-set up the email password on "password.py"
+Set up the email password on "password.py"
 
 ## Run 
 ```bash
