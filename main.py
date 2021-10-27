@@ -19,7 +19,7 @@ i = 0
 
 for email in to_email:
     email_msg = EmailMessage()  
-    send_email = "awssns01@gmail.com"
+    send_email = ""
 
 
     email_msg['Subject'] = 'Subject Of The Email'  
